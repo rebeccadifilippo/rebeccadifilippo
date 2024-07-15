@@ -11,9 +11,6 @@
 ## 🌐 Connect
 - 💼 LinkedIn: [Rebecca Di Filippo](https://www.linkedin.com/in/rebeccadifilippo)
 
-## 🌱 Fun Fact
-- 🌌 I've visited NASA in Texas!
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
 <div>
