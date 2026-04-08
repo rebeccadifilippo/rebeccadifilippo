@@ -1,7 +1,7 @@
  # 🌟 Hi, I'm @rebeccadifilippo
 
 ## 🚀 About Me
-- 👩‍💻 I’m passionate about software infrastructure,AI/ML,backend development, QA and much more!
+- 👩‍💻 I’m passionate about AI/ML,backend development, software testing and much more!
 - 🎓 Currently pursuing a degree in **Software Engineering** at *McMaster University*.
 - 💡 Always eager to learn and collaborate on exciting projects. Let's create something great together!
 
