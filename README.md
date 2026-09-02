@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I am a Master of Applied Science (MASc) student at McMaster University,with an undergraduate degree in Software Engineering. My research focuses on the intersection of Artificial Intelligence, Model-Driven Engineering (MDE), and Graph Theory.
+I am a Master of Applied Science (MASc) student at McMaster University, with an undergraduate degree in Software Engineering. My research focuses on the intersection of Artificial Intelligence, Model-Driven Engineering (MDE), and Graph Theory.
 
 ---
 
