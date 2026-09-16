@@ -1,6 +1,6 @@
 # Hi, I'm Rebecca Di Filippo
 
-## Software Engineering Student | AI/ML & Backend Developer
+## Master of Applied Science Software Engineering Student | AI/ML & Backend Developer
 
 ---
 
